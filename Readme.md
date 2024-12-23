@@ -2,6 +2,7 @@
 
 Este proyecto analiza los datos proporcionados por **NOAA - Natural Hazard Statistics** para el año 2024 (meses de enero a septiembre). El objetivo es explorar y comprender los patrones y el impacto de los desastres naturales reportados en los Estados Unidos. 
 Para este proyecto, se utilizaron:
+
 *Los datasets públicos del NOAA
 *Python para la limpieza de los datos y el analisis de los mismos- y 
 *PowerBI para las visualizaciones
@@ -42,7 +43,6 @@ Los datos provienen de tres archivos CSV:
 - **Librerías:**
   - `pandas` y `numpy` para manipulación de datos.
   - `matplotlib` y `seaborn` para visualizaciones.
-  - `plotly` para dashboards interactivos.
 - **Power BI:** Creación de dashboards interactivos.
 
 ---
@@ -71,7 +71,7 @@ Si deseas contribuir, por favor abre un issue o envía un pull request con tus c
 
 ## **Autor**
 
-Sinnickar (https://github.com/Sinnick4r)
+Emilio Gomez Lencina (https://github.com/Sinnick4r)
 
 ---
 
