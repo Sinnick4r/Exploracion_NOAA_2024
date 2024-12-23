@@ -3,10 +3,10 @@
 Este proyecto analiza los datos proporcionados por **NOAA - Natural Hazard Statistics** para el año 2024 (meses de enero a septiembre). El objetivo es explorar y comprender los patrones y el impacto de los desastres naturales reportados en los Estados Unidos. 
 Para este proyecto, se utilizaron:
 
-*Los datasets públicos del NOAA
-*Python para la limpieza de los datos y el analisis de los mismos- y 
-*PowerBI para las visualizaciones
-*ChatGPT para la revisión del codigo para adecuar el mismo a las buenas normas y costumbres de Python
+1. **Los datasets públicos del NOAA.**
+2. **Python para la limpieza de los datos y el análisis de los mismos.**
+3. **PowerBI para las visualizaciones y dahsboards.**
+4. **ChatGPT versión o1 para la revisión del codigo y sugerir comentarios/formato para adecuar el mismo a las buenas normas y costumbres de Python.**
 
 ---
 
