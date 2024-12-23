@@ -61,17 +61,6 @@ Los datos provienen de tres archivos CSV:
    ```bash
    git clone https://github.com/tu_usuario/Exploracion_Datos_NOAA.git
    ```
-
-2. Instalar las dependencias:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Abrir los notebooks:
-   ```bash
-   jupyter notebook
-   ```
-
 ---
 
 ## **Contribuciones**
