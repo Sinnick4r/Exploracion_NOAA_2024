@@ -59,7 +59,7 @@ Los datos provienen de tres archivos CSV:
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/Exploracion_Datos_NOAA.git
+   git clone https://github.com/sinnick4r/Exploracion_NOAA_2024.git
    ```
 ---
 
