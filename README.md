@@ -12,10 +12,10 @@ Para este proyecto, se utilizaron:
 
 ## **Contenido del Proyecto**
 
-- `data Original/`: Contiene los datos brutos usados para el análisis.
-- `data Procesada/`: Contiene los datos procesados usados con el script
-- `codigo/`: Codigo de Python usado para limpiear los datasets
-- `visualizaciones/`: Gráficos generados para comprender los patrones clave.
+- `Data Original/`: Contiene los datos brutos usados para el análisis.
+- `Data Procesada/`: Contiene los datos procesados usados con el script
+- `Codigo/`: Codigo de Python usado para limpiear los datasets
+- `Visualizaciones/`: Gráficos generados para comprender los patrones clave.
 - `README.md`: Este archivo con información del proyecto.
 
 ---
