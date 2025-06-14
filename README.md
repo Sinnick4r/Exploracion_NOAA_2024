@@ -6,13 +6,14 @@ Para este proyecto, se utilizaron:
 1. **Los datasets públicos del NOAA.**
 2. **Python para la limpieza de los datos y el análisis de los mismos.**
 3. **PowerBI para las visualizaciones y dahsboards.**
-4. **ChatGPT versión o1 para la revisión y sugerencia de comentarios/formato para adecuar el mismo a las buenas normas y costumbres de Python.**
+4. **ChatGPT versión 4o para la revisión y sugerencia de comentarios/formato para adecuar el mismo a las buenas normas y costumbres de Python.**
 
 ---
 
 ## **Contenido del Proyecto**
 
-- `data/`: Contiene los datos brutos y procesados usados para el análisis.
+- `data Original/`: Contiene los datos brutos usados para el análisis.
+- `data Procesada/`: Contiene los datos procesados usados con el script
 - `codigo/`: Codigo de Python usado para limpiear los datasets
 - `visualizaciones/`: Gráficos generados para comprender los patrones clave.
 - `README.md`: Este archivo con información del proyecto.
