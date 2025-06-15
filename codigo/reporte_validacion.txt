@@ -30,7 +30,7 @@ injuries_indirect        0
 deaths_direct            0
 deaths_indirect          0
 damage_property          0
-damage_crops         15729
+damage_crops             0
 source                   0
 magnitude            33546
 magnitude_type       42560
@@ -75,7 +75,7 @@ injuries_indirect       16
 deaths_direct           15
 deaths_indirect         14
 damage_property        358
-damage_crops           123
+damage_crops           121
 source                  42
 magnitude              147
 magnitude_type           4
