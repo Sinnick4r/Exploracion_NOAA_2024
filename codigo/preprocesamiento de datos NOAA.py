@@ -128,7 +128,9 @@ def main():
     logging.info(f"Tipo de archivo detectado: {tipo}")
 
     if tipo == 'details':
-        df['damage_property'] = df['damage_property'].apply(convertir_damage)
+        for col in ['damage_property', 'damage_crops']:
+             if col in df.columns:
+                df[col] = df[col].apply(convertir_damage)
 
     generar_reporte(df, "reporte_validacion.txt")
     guardar_archivo(df)

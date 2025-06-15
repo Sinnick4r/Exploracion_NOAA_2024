@@ -1,0 +1,95 @@
+=== Resumen General ===
+Dimensiones: 70196 filas, 43 columnas.
+
+Columnas:
+begin_yearmonth, begin_day, begin_time, end_yearmonth, end_day, end_time, episode_id, event_id, state, state_fips, year, month_name, event_type, cz_type, cz_fips, cz_name, wfo, begin_date_time, cz_timezone, end_date_time, injuries_direct, injuries_indirect, deaths_direct, deaths_indirect, damage_property, damage_crops, source, magnitude, magnitude_type, flood_cause, begin_range, begin_azimuth, begin_location, end_range, end_azimuth, end_location, begin_lat, begin_lon, end_lat, end_lon, episode_narrative, event_narrative, data_source
+
+=== Valores Nulos por Columna ===
+begin_yearmonth          0
+begin_day                0
+begin_time               0
+end_yearmonth            0
+end_day                  0
+end_time                 0
+episode_id               0
+event_id                 0
+state                    0
+state_fips               0
+year                     0
+month_name               0
+event_type               0
+cz_type                  0
+cz_fips                  0
+cz_name                  0
+wfo                      0
+begin_date_time          0
+cz_timezone          70196
+end_date_time            0
+injuries_direct          0
+injuries_indirect        0
+deaths_direct            0
+deaths_indirect          0
+damage_property          0
+damage_crops             0
+source                   0
+magnitude            33546
+magnitude_type       42560
+flood_cause          62787
+begin_range          27713
+begin_azimuth        27713
+begin_location       27713
+end_range            27713
+end_azimuth          27713
+end_location         27713
+begin_lat            27713
+begin_lon            27713
+end_lat              27713
+end_lon              27713
+episode_narrative        0
+event_narrative      11975
+data_source              0
+
+=== Cardinalidad de Columnas ===
+begin_yearmonth         12
+begin_day               31
+begin_time            1440
+end_yearmonth           12
+end_day                 31
+end_time              1440
+episode_id            9979
+event_id             70196
+state                   68
+state_fips              68
+year                     1
+month_name              12
+event_type              50
+cz_type                  2
+cz_fips                605
+cz_name               3438
+wfo                    123
+begin_date_time      36959
+cz_timezone              0
+end_date_time        36205
+injuries_direct         25
+injuries_indirect       16
+deaths_direct           15
+deaths_indirect         14
+damage_property        358
+damage_crops           121
+source                  42
+magnitude              147
+magnitude_type           4
+flood_cause              7
+begin_range             81
+begin_azimuth           16
+begin_location       16540
+end_range               85
+end_azimuth             16
+end_location         16613
+begin_lat            17009
+begin_lon            19730
+end_lat              19109
+end_lon              21725
+episode_narrative     9117
+event_narrative      50895
+data_source              1
